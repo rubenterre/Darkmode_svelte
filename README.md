@@ -40,7 +40,7 @@ Este es el repositorio del código del proyecto:
 ## 🎥 Video del tutorial
 
 Puedes ver el video completo en YouTube
-- [https://youtu.be/8VKTzN0iwzc](https://youtu.be/IQrMAWF4PUQ)
+- [https://youtu.be/8VKTzN0iwzc](https://youtu.be/wj1Hw8BfZ7k)
 
 ## 🛠 Tecnologías utilizadas
 
