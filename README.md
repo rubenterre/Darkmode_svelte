@@ -23,9 +23,13 @@ En el video, te guiaré a través de la creación del dark mode o modo oscuro en
 ## 🕒 Timestamps
 
 00:00 - Presentación
+
 00:34 - Configuración inicial
+
 03:53 - Lógica del darkmode
+
 07:16 - Botón del modo oscuro
+
 08:31 - Conclusión
 
 ## 📂 Repositorio
