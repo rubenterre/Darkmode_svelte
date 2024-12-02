@@ -23,36 +23,20 @@ En el video, te guiaré a través de la creación del dark mode o modo oscuro en
 ## 🕒 Timestamps
 
 00:00 - Presentación
-
-00:41 - ¿Qué es una PWA?
-
-04:10 - ¿Cómo funcionan las PWA?  Requisitos
-
-06:28 - Desarrollo de una PWA
-
-08:39 - Desarrollo de una PWA: manifest.json
-
-12:25 - Desarrollo de una PWA: service-worker.js
-
-14:46 - Desarrollo de una PWA: +layout.svelte
-
-16:36 - Desarrollo de una PWA: svelte.config.js
-
-17:38 - Últimos retoques
-
-18:30 - Probando la PWA
-
-21:22 - Conclusión
+00:34 - Configuración inicial
+03:53 - Lógica del darkmode
+07:16 - Botón del modo oscuro
+08:31 - Conclusión
 
 ## 📂 Repositorio
 
 Este es el repositorio del código del proyecto:
-- [Repositorio de GitHub](https://github.com/rubenterre/superburguer-PWA)
+- [Repositorio de GitHub](https://github.com/rubenterre/Darkmode_svelte)
 
 ## 🎥 Video del tutorial
 
 Puedes ver el video completo en YouTube
-- [https://youtu.be/8VKTzN0iwzc](https://www.youtube.com/watch?v=kg7qlmvi4Ps)
+- [https://youtu.be/8VKTzN0iwzc](https://youtu.be/IQrMAWF4PUQ)
 
 ## 🛠 Tecnologías utilizadas
 
